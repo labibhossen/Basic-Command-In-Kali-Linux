@@ -10,6 +10,7 @@ pwd: Print working directory.
 ls: List files and directories.
 
 cd: Change directory.
+
 mkdir: Create a directory.
 touch: Create an empty file.
 cp: Copy files and directories.
