@@ -6,7 +6,9 @@ Listing all the basic Linux commands in a single response is impractical, as the
 File System Navigation and Management:
 
 pwd: Print working directory.
+
 ls: List files and directories.
+
 cd: Change directory.
 mkdir: Create a directory.
 touch: Create an empty file.
